@@ -1,0 +1,290 @@
+{
+  "batters": [
+    {
+      "rank": 1,
+      "name": "Suryakumar Yadav",
+      "balls": 520,
+      "runs": 860,
+      "sr": 165.4,
+      "norm_sr": 160.3,
+      "delta_sr": 5.1,
+      "rae": 188.9,
+      "death_balls": 67,
+      "dismissals": 22
+    },
+    {
+      "rank": 2,
+      "name": "Tim David",
+      "balls": 436,
+      "runs": 771,
+      "sr": 176.8,
+      "norm_sr": 164.2,
+      "delta_sr": 12.7,
+      "rae": 162.7,
+      "death_balls": 265,
+      "dismissals": 19
+    },
+    {
+      "rank": 3,
+      "name": "David Miller",
+      "balls": 454,
+      "runs": 726,
+      "sr": 159.9,
+      "norm_sr": 134.0,
+      "delta_sr": 25.9,
+      "rae": 130.9,
+      "death_balls": 98,
+      "dismissals": 19
+    },
+    {
+      "rank": 4,
+      "name": "Sanju Samson",
+      "balls": 230,
+      "runs": 417,
+      "sr": 181.3,
+      "norm_sr": 146.2,
+      "delta_sr": 35.1,
+      "rae": 124.3,
+      "death_balls": 5,
+      "dismissals": 14
+    },
+    {
+      "rank": 5,
+      "name": "Namboori Tilak Varma",
+      "balls": 545,
+      "runs": 835,
+      "sr": 153.2,
+      "norm_sr": 133.3,
+      "delta_sr": 19.9,
+      "rae": 122.2,
+      "death_balls": 174,
+      "dismissals": 19
+    },
+    {
+      "rank": 6,
+      "name": "Tristan Stubbs",
+      "balls": 422,
+      "runs": 642,
+      "sr": 152.1,
+      "norm_sr": 141.6,
+      "delta_sr": 10.5,
+      "rae": 115.3,
+      "death_balls": 107,
+      "dismissals": 17
+    },
+    {
+      "rank": 7,
+      "name": "Rovman Powell",
+      "balls": 520,
+      "runs": 762,
+      "sr": 146.5,
+      "norm_sr": 134.9,
+      "delta_sr": 11.6,
+      "rae": 104.9,
+      "death_balls": 169,
+      "dismissals": 28
+    },
+    {
+      "rank": 8,
+      "name": "Heinrich Klaasen",
+      "balls": 340,
+      "runs": 517,
+      "sr": 152.1,
+      "norm_sr": 161.9,
+      "delta_sr": -9.9,
+      "rae": 98.3,
+      "death_balls": 49,
+      "dismissals": 16
+    },
+    {
+      "rank": 9,
+      "name": "Nicholas Pooran",
+      "balls": 410,
+      "runs": 629,
+      "sr": 153.4,
+      "norm_sr": 146.8,
+      "delta_sr": 6.6,
+      "rae": 85.1,
+      "death_balls": 91,
+      "dismissals": 22
+    },
+    {
+      "rank": 10,
+      "name": "Rinku Singh",
+      "balls": 383,
+      "runs": 589,
+      "sr": 153.8,
+      "norm_sr": 141.8,
+      "delta_sr": 11.9,
+      "rae": 79.8,
+      "death_balls": 175,
+      "dismissals": 12
+    }
+  ],
+  "bowlers": [
+    {
+      "rank": 1,
+      "name": "Sunil Narine",
+      "balls": 326,
+      "wickets": 22,
+      "econ": 5.59,
+      "norm_econ": 7.2,
+      "delta_econ": 1.61,
+      "rpa": 102.2,
+      "death_balls": 81,
+      "net_impact": 225.6
+    },
+    {
+      "rank": 2,
+      "name": "Jasprit Bumrah",
+      "balls": 408,
+      "wickets": 30,
+      "econ": 6.72,
+      "norm_econ": 7.43,
+      "delta_econ": 0.72,
+      "rpa": 70.5,
+      "death_balls": 201,
+      "net_impact": 238.8
+    },
+    {
+      "rank": 3,
+      "name": "Mustafizur Rahman",
+      "balls": 402,
+      "wickets": 28,
+      "econ": 6.37,
+      "norm_econ": 8.27,
+      "delta_econ": 1.9,
+      "rpa": 88.9,
+      "death_balls": 264,
+      "net_impact": 245.9
+    },
+    {
+      "rank": 4,
+      "name": "Matheesha Pathirana",
+      "balls": 441,
+      "wickets": 30,
+      "econ": 7.9,
+      "norm_econ": 9.34,
+      "delta_econ": 1.44,
+      "rpa": 78.6,
+      "death_balls": 240,
+      "net_impact": 246.9
+    },
+    {
+      "rank": 5,
+      "name": "Rashid Khan",
+      "balls": 747,
+      "wickets": 54,
+      "econ": 7.21,
+      "norm_econ": 7.51,
+      "delta_econ": 0.3,
+      "rpa": 16.1,
+      "death_balls": 234,
+      "net_impact": 319.0
+    },
+    {
+      "rank": 6,
+      "name": "Mohit Sharma",
+      "balls": 233,
+      "wickets": 23,
+      "econ": 7.89,
+      "norm_econ": 10.57,
+      "delta_econ": 2.68,
+      "rpa": 24.1,
+      "death_balls": 129,
+      "net_impact": 153.1
+    },
+    {
+      "rank": 7,
+      "name": "Ravichandran Ashwin",
+      "balls": 363,
+      "wickets": 14,
+      "econ": 7.53,
+      "norm_econ": 7.97,
+      "delta_econ": 0.44,
+      "rpa": 36.1,
+      "death_balls": 59,
+      "net_impact": 114.6
+    },
+    {
+      "rank": 8,
+      "name": "Mitchell Santner",
+      "balls": 474,
+      "wickets": 30,
+      "econ": 6.79,
+      "norm_econ": 7.68,
+      "delta_econ": 0.89,
+      "rpa": 14.4,
+      "death_balls": 87,
+      "net_impact": 182.7
+    },
+    {
+      "rank": 9,
+      "name": "Kuldeep Yadav",
+      "balls": 485,
+      "wickets": 37,
+      "econ": 7.57,
+      "norm_econ": 8.16,
+      "delta_econ": 0.59,
+      "rpa": 4.0,
+      "death_balls": 130,
+      "net_impact": 211.6
+    },
+    {
+      "rank": 10,
+      "name": "Varun Chakravarthy",
+      "balls": 679,
+      "wickets": 55,
+      "econ": 7.77,
+      "norm_econ": 8.12,
+      "delta_econ": 0.35,
+      "rpa": -59.0,
+      "death_balls": 160,
+      "net_impact": 249.6
+    }
+  ],
+  "models": [
+    {
+      "name": "1. Global Mean Baseline",
+      "mae": 1.2009,
+      "rmse": 1.8624,
+      "brier": 0.241,
+      "status": "Rejected (No Context)"
+    },
+    {
+      "name": "2. Phase Stratified Mean",
+      "mae": 1.3456,
+      "rmse": 1.8133,
+      "brier": 0.2185,
+      "status": "Rejected (Too Coarse)"
+    },
+    {
+      "name": "3. Phase x Wickets Grid",
+      "mae": 1.339,
+      "rmse": 1.8085,
+      "brier": 0.2041,
+      "status": "Benchmark Standard"
+    },
+    {
+      "name": "4. Regularised Ridge Regr.",
+      "mae": 1.3502,
+      "rmse": 1.8005,
+      "brier": 0.1982,
+      "status": "Linear Baseline"
+    },
+    {
+      "name": "5. HistGradientBoosting",
+      "mae": 1.352,
+      "rmse": 1.7985,
+      "brier": 0.1974,
+      "status": "Rejected (Overfits Edges)"
+    },
+    {
+      "name": "6. Multi-Factor Context Grid",
+      "mae": 1.3434,
+      "rmse": 1.7956,
+      "brier": 0.1951,
+      "status": "Selected Canonical Model"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+# Data files
+data/Data Pack/
+data/__MACOSX/
+*.parquet
+*.csv.gz
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local environments
+.venv/
+env/

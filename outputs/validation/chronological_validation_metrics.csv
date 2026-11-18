@@ -1,0 +1,8 @@
+Validation_Period,Task,Model,Metric,Model_Score,Dummy_Baseline,Model_Status
+2026 Season Out-of-Sample,Delivery Run Scoring,HistGradientBoosting,MAE,1.3518,1.3499,Baseline Comparable
+2026 Season Out-of-Sample,Delivery Run Scoring,HistGradientBoosting,RMSE,1.7981,1.8135,Slight Improvement (+0.8%)
+2026 Season Out-of-Sample,Delivery Wicket Likelihood,HistGradientBoosting,Brier Score,0.0482,0.0485,Slight Improvement (+0.6%)
+2026 Season Out-of-Sample,Delivery Wicket Likelihood,HistGradientBoosting,ROC-AUC,0.5833,0.5,Discriminative (+16.7%)
+2026 Season Out-of-Sample,Chasing Win Probability (Inn 2),Logistic Regression,Brier Score,0.1368,0.2541,Substantial Improvement (+46.2%)
+2026 Season Out-of-Sample,Chasing Win Probability (Inn 2),Logistic Regression,Log Loss,0.417,0.7013,Substantial Improvement (+40.5%)
+2026 Season Out-of-Sample,Chasing Win Probability (Inn 2),Logistic Regression,ROC-AUC,0.9059,0.5,High Discrimination (+81.2%)

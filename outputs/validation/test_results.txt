@@ -1,0 +1,14 @@
+AUTOMATED TEST EXECUTION REPORT
+============================================================
+[PASS] Legal Delivery Calculation - Illegal balls count (8,554) correctly encompasses wides (7,714) and oversteps (576).
+[PASS] Delivery Total Runs Integrity - delivery_total_runs exactly equals runs + extras1_runs + extras_2_runs for 100% of records.
+[PASS] Bowler Dismissal Attribution - Zero run-outs (0) or retired outs (0) were credited as bowler wickets.
+[PASS] Pre-Delivery State Leakage Prevention - 100% of opening deliveries have cum_runs_pre == 0 and cum_wickets_pre == 0.
+[PASS] Innings 2 Target Derivation - Target score is non-null for all 95,234 chasing deliveries.
+[PASS] Pressure Score Boundedness - Pressure score strictly lies in [0.0, 1.0] (observed min: 0.05, max: 0.99).
+[PASS] Expected Runs Model Calibration - Population mean actual runs (1.3411) vs expected (1.3433), bias is negligible (0.0022).
+[PASS] Top 10 Batter List Uniqueness - Top 10 Batters contains exactly 10 distinct player IDs.
+[PASS] Top 10 Bowler List Uniqueness - Top 10 Bowlers contains exactly 10 distinct player IDs.
+[PASS] Ranking Index Monotonicity - Rankings are strictly monotonic decreasing by BPRI and Bowler_PRI.
+============================================================
+Total Tests: 10 | Passed: 10 | Failed: 0

@@ -1,0 +1,11 @@
+Item,Count_or_Balls,Match_Runs,Bowler_Runs,Notes
+Total Recorded Deliveries,200999,284257,279653,Raw delivery rows across all 867 fixtures
+Legal Deliveries,192445,274158,269555,Counts toward over progression
+Wides (extras_type == 'wide'),7714,9174,9174,Re-bowled; charged to bowler
+Overstep No-Balls ('Overstep'),576,624,624,Re-bowled; charged to bowler
+Other Illegal Balls ('other'),264,299,299,Re-bowled; charged to bowler
+Byes ('byes'),529,1000,0,Fielding unearned; excluded from bowler
+Leg-Byes ('legbyes'),2748,3603,0,Fielding unearned; excluded from bowler
+Penalty Runs ('Penalty'),1,5,5,Charged in dataset accounting row 34203
+Bowler-Credited Dismissals,10272,0,0,"Caught (7557), Bowled (1775), LBW (709), Stumped (214), Hit Wkt (17)"
+Non-Bowler Dismissals,609,0,0,"Run-outs (600), Retired Out (6), Obstructing (3)"

@@ -1,0 +1,11 @@
+Rank,Name,ID,P_Top10_pct,P_Top15_pct,Median_Rank,P5_Rank,P95_Rank,Confidence_Tier
+1,Sanju Samson,2258,63.4,76.2,7.0,1.0,34.0,High (>=75%)
+2,Reeza Hendricks,768,35.0,51.0,15.0,3.0,67.0,Moderate (50-74%)
+3,Suryakumar Yadav,1699,91.6,96.3,2.0,1.0,13.0,High (>=75%)
+4,Tim David,6396,85.1,91.2,3.0,1.0,21.0,High (>=75%)
+5,Naman Dhir,37052,12.1,24.8,26.0,7.0,93.0,Context-Sensitive (<50%)
+6,Ashutosh Sharma,8101,16.7,26.6,29.0,5.0,99.0,Context-Sensitive (<50%)
+7,David Miller,1077,62.4,72.6,7.0,1.0,51.0,Moderate (50-74%)
+8,Rishabh Pant,4703,7.8,17.0,33.0,9.0,102.0,Context-Sensitive (<50%)
+9,Glenn Phillips,4853,17.0,29.2,25.0,6.0,86.0,Context-Sensitive (<50%)
+10,Jos Buttler,813,20.5,35.1,23.0,5.0,87.0,Context-Sensitive (<50%)

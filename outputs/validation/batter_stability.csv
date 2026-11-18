@@ -1,0 +1,11 @@
+Rank,player_name,striker_id,median_bootstrap_rank,top15_appearance_pct,rank_iqr,confidence_tier
+1,Sanju Samson,2258,5.0,80.5,7.25,High
+2,Reeza Hendricks,768,11.5,64.5,15.0,Moderate
+3,Suryakumar Yadav,1699,1.0,99.0,2.0,High
+4,Tim David,6396,2.0,98.0,3.0,High
+5,Naman Dhir,37052,21.5,29.0,20.25,Context-Sensitive
+6,Ashutosh Sharma,8101,22.0,32.5,32.0,Context-Sensitive
+7,David Miller,1077,6.0,80.0,10.0,High
+8,Rishabh Pant,4703,28.0,19.5,24.0,Context-Sensitive
+9,Glenn Phillips,4853,21.0,37.0,26.0,Context-Sensitive
+10,Jos Buttler,813,18.0,45.0,19.75,Context-Sensitive

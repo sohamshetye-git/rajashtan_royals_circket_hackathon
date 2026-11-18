@@ -1,0 +1,6 @@
+Bowler,Player_ID,Legal_Balls,All_Deliveries,Runs_on_Legal_Balls,Runs_on_All_Deliveries,Wide_Runs,NoBall_Runs,Byes_Excluded,Reconciliation_Equation
+Sunil Narine,781,320,326,291,298,7,0,16,291 (legal) + 7 (wide) + 0 (noball) = 298 (all conceded)
+Abrar Ahmed,5979,268,269,221,222,1,0,5,221 (legal) + 1 (wide) + 0 (noball) = 222 (all conceded)
+Mustafizur Rahman,4373,388,402,394,412,13,5,12,394 (legal) + 13 (wide) + 5 (noball) = 412 (all conceded)
+Jasprit Bumrah,2933,393,408,424,440,13,3,22,424 (legal) + 13 (wide) + 3 (noball) = 440 (all conceded)
+Matheesha Pathirana,8661,382,441,423,503,66,14,16,423 (legal) + 66 (wide) + 14 (noball) = 503 (all conceded)

@@ -1,0 +1,9 @@
+Check_Item,Status,Audited_Finding
+Official Scope (IPL + T20I Only),PASSED,"Exact 194,014 deliveries (367 IPL, 470 T20I matches). Zero OTHER_T20 deliveries in final rankings."
+Domain Accounting Reconciliation,PASSED,"192,445 legal balls + 8,554 illegal balls = 200,999 total. All 4,604 runs of byes/leg-byes excluded from bowler runs."
+Model Baseline Reporting Integrity,PASSED,Honest reporting: delivery runs MAE (1.3518 vs 1.3499 baseline) acknowledged as noise-dominated; Chasing WP validated (Brier 0.1368 vs 0.2541).
+Leverage Terminology Disambiguation,PASSED,Clear distinction established: WPA (signed outcome swing) vs |Delta WP| vs Delivery Leverage L_t. High collinearity (r=0.98) documented.
+Model Hierarchy Recommendation,PASSED,CRISP v1 (pure unweighted rate/execution) recommended as PRIMARY official submission; CRISP v2 presented as leverage sensitivity analysis.
+"Bootstrap 2,000 Iterations Audit",PASSED,"All 2,000 match-clustered iterations completed. Correct tiers applied strictly on P_Top10_pct."
+PDF vs CSV Numerical Synchronization,PASSED,100% synchronization across all 5 generated PDF reports and 7 canonical ranking CSVs.
+Reproducibility Pipeline Execution,PASSED,Automated end-to-end execution verified in clean Python 3.12 environment.

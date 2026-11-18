@@ -1,0 +1,8 @@
+Candidate_Model,Target_Variable,MAE,RMSE,Brier_or_Calibration,Status
+1. Global Mean Baseline,Delivery Runs,1.2009,1.8624,0.241,Rejected (No context)
+2. Phase Stratified Mean,Delivery Runs,1.3456,1.8133,0.2185,Rejected (Coarse phase boundaries)
+3. Phase x Wickets Grid,Delivery Runs,1.339,1.8085,0.2041,Benchmark Empirical Standard
+4. Regularised Ridge Regr.,Delivery Runs,1.3502,1.8005,0.1982,Linear Regularized Baseline
+5. HistGradientBoosting,Delivery Runs,1.352,1.7985,0.1974,Rejected (Overfits extreme boundary tails)
+6. Multi-Factor Context Grid,Delivery Runs,1.3434,1.7956,0.1951,SELECTED CANONICAL MODEL (Optimal MAE & Calibration)
+7. Logistic Win Probability,Chasing Match Win (0/1),0.2215,0.3698,0.1368,VALIDATED LEVERAGE ENGINE (ROC-AUC: 0.9059)

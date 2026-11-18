@@ -1,0 +1,21 @@
+Player_Name,Player_ID,Player_Type,Total_Career_Balls,Pressure_Balls,Pressure_Matches,Pressure_SR,Normal_SR,SR_Delta,Pressure_RAE_or_RPA,Eligibility_Status,CRISP_v1_Rank,CRISP_v2_Rank,Audit_Verdict
+Virat Kohli,47,Batter,2545,96,11,173.96,138.83,35.13,33.2,EXCLUDED (Sample < 100 balls),N/A,N/A,Only 96 pressure balls faced (11 matches) out of 2545 total career balls (3.8% under crisis).
+Hardik Pandya,3330,Batter,1993,314,27,133.76,137.28,-3.53,-3.64,QUALIFIED,85,76,"Met sample cutoff (314 balls), but ranked #76. Performance index lagged top finishers (SR 133.8, RAE +-3.6)."
+Shubman Gill,6288,Batter,2804,171,12,150.29,144.06,6.24,17.14,QUALIFIED,51,65,"Met sample cutoff (171 balls), but ranked #65. Performance index lagged top finishers (SR 150.3, RAE +17.1)."
+Yashasvi Jaiswal,6819,Batter,1936,46,10,154.35,151.11,3.24,16.42,EXCLUDED (Sample < 100 balls),N/A,N/A,Only 46 pressure balls faced (10 matches) out of 1936 total career balls (2.4% under crisis).
+Rishabh Pant,4703,Batter,1295,182,13,166.48,132.17,34.32,61.6,QUALIFIED,8,13,"Met sample cutoff (182 balls), but ranked #13. Performance index lagged top finishers (SR 166.5, RAE +61.6)."
+Suryakumar Yadav,1699,Batter,2850,520,32,165.38,160.3,5.08,188.87,QUALIFIED,3,4,"Top 10 Selection (Rank #4). High crisis reliability, SR 165.4 (+5.1 delta), +188.9 RAE."
+Sanju Samson,2258,Batter,2305,230,17,181.3,146.22,35.09,124.28,QUALIFIED,1,2,"Top 10 Selection (Rank #2). High crisis reliability, SR 181.3 (+35.1 delta), +124.3 RAE."
+David Miller,1077,Batter,1338,454,32,159.91,134.05,25.86,130.89,QUALIFIED,7,5,"Top 10 Selection (Rank #5). High crisis reliability, SR 159.9 (+25.9 delta), +130.9 RAE."
+Jos Buttler,813,Batter,2920,231,17,167.97,149.05,18.91,76.06,QUALIFIED,10,10,"Top 10 Selection (Rank #10). High crisis reliability, SR 168.0 (+18.9 delta), +76.1 RAE."
+Heinrich Klaasen,4260,Batter,1480,340,23,152.06,161.93,-9.87,98.33,QUALIFIED,15,18,"Met sample cutoff (340 balls), but ranked #18. Performance index lagged top finishers (SR 152.1, RAE +98.3)."
+Jasprit Bumrah,2933,Bowler,1780,393,38,6.72,7.43,0.72,70.51,QUALIFIED,6,6,"Top 10 Selection (Rank #6). Canonical pressure econ 6.72, 30 wickets, +70.5 runs prevented."
+Sunil Narine,781,Bowler,1556,320,26,5.59,7.2,1.61,102.17,QUALIFIED,1,2,"Top 10 Selection (Rank #2). Canonical pressure econ 5.59, 22 wickets, +102.2 runs prevented."
+Rashid Khan,4722,Bowler,2780,736,53,7.21,7.51,0.3,16.07,QUALIFIED,12,12,"Met sample cutoff (736 balls), but ranked #12. Pressure econ 7.21, econ delta 0.3."
+Arshdeep Singh,6464,Bowler,3432,902,82,8.75,9.28,0.53,-67.91,QUALIFIED,46,20,"Met sample cutoff (902 balls), but ranked #20. Pressure econ 8.75, econ delta 0.53."
+Varun Chakravarthy,6256,Bowler,2182,664,50,7.77,8.12,0.35,-58.98,QUALIFIED,31,17,"Met sample cutoff (664 balls), but ranked #17. Pressure econ 7.77, econ delta 0.35."
+Kuldeep Yadav,3644,Bowler,1965,469,36,7.57,8.16,0.59,4.01,QUALIFIED,18,13,"Met sample cutoff (469 balls), but ranked #13. Pressure econ 7.57, econ delta 0.59."
+Mohammed Siraj,5944,Bowler,1925,387,36,8.99,8.79,-0.2,-31.98,QUALIFIED,66,53,"Met sample cutoff (387 balls), but ranked #53. Pressure econ 8.99, econ delta -0.2."
+Patrick Cummins,1758,Bowler,1269,293,20,9.36,9.23,-0.13,-34.76,QUALIFIED,90,86,"Met sample cutoff (293 balls), but ranked #86. Pressure econ 9.36, econ delta -0.13."
+Matheesha Pathirana,8661,Bowler,1279,382,26,7.9,9.34,1.44,78.61,QUALIFIED,9,5,"Top 10 Selection (Rank #5). Canonical pressure econ 7.9, 30 wickets, +78.6 runs prevented."
+Mustafizur Rahman,4373,Bowler,1646,388,33,6.37,8.27,1.9,88.87,QUALIFIED,4,3,"Top 10 Selection (Rank #3). Canonical pressure econ 6.37, 28 wickets, +88.9 runs prevented."
